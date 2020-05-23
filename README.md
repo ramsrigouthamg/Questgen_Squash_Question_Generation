@@ -1,5 +1,5 @@
 # Generating Questions
-This is module to produce question generation. Originally forked from [here](https://github.com/martiansideofthemoon/squash-generation)
+This is module for produce question generation. Originally forked from [here](https://github.com/martiansideofthemoon/squash-generation)
 
 I am uploading two python notebook in which you only need to run on colab with few changes in address.
 One python notebook name PreprocessBOOLQ preprocesses the original BOOLQ dataset to SQUASH format.
