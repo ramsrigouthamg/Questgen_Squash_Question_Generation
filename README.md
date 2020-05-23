@@ -8,7 +8,7 @@ Second python notebook produces BOOLEAN Questions named boolquestiongeneration p
 Final generated question will be produced inside /squash/temp/quac_869/ folder with filename generated_questions.json.
 
 
-Note : Done as Questgen Open Source Initiative.
+<b>Note : Done as Questgen Open Source Initiative.</b>
 
 
 ## Requirements
